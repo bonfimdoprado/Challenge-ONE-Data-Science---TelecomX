@@ -44,3 +44,7 @@ O método "Mailed check" apresentou taxas intermediárias, possivelmente associa
 Em resumo, o tipo de pagamento utilizado pelo cliente pode ser um indicativo importante do seu nível de fidelização, sendo uma variável estratégica para programas de retenção e personalização de ofertas.
 
 ![Image](https://github.com/user-attachments/assets/9a7fdd1b-b153-4129-a242-51b24e6329c8)
+
+## Autor
+
+* **Matheus Bonfim do Prado**: @bonfimdoprado (https://github.com/bonfimdoprado)
