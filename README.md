@@ -30,9 +30,12 @@ Essa disparidade pode não indicar necessariamente insatisfação com a empresa,
 ![Image](https://github.com/user-attachments/assets/4068c5d2-0acd-45a9-bc71-19efd006b846)
 
 
-## 2 - Análise do Churn por Método de Pagamento
+### 2 - Análise do Churn por Método de Pagamento
 Os Electronic check representam a principal causa de cancelamento, com uma taxa de 45.29% e o maior volume de clientes que cancelaram (1071). Em contraste, os métodos Credit card (automatic) e Bank transfer (automatic) demonstram maior retenção, registrando as menores porcentagens que cancelaram (15.24% e 16.71% respectivamente). Os Mailed check apresentam uma taxa intermediária de cancelamento, com 19.11%.
 
 Para melhorar, incentive a migração para métodos de pagamento automáticos, como Credit card (automatic) e Bank transfer (automatic), que comprovadamente resultam em maior lealdade do cliente.
 
 ![Image](https://github.com/user-attachments/assets/53f75ce0-5064-45c7-b021-9c7be84abcb3)
+
+
+### 3 -
