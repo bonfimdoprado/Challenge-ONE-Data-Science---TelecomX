@@ -32,10 +32,15 @@ Essa disparidade pode não indicar necessariamente insatisfação com a empresa,
 
 ### 2 - Análise do Churn por Método de Pagamento
 Os Electronic check representam a principal causa de cancelamento, com uma taxa de 45.29% e o maior volume de clientes que cancelaram (1071). Em contraste, os métodos Credit card (automatic) e Bank transfer (automatic) demonstram maior retenção, registrando as menores porcentagens que cancelaram (15.24% e 16.71% respectivamente). Os Mailed check apresentam uma taxa intermediária de cancelamento, com 19.11%.
-
 Para melhorar, incentive a migração para métodos de pagamento automáticos, como Credit card (automatic) e Bank transfer (automatic), que comprovadamente resultam em maior lealdade do cliente.
 
 ![Image](https://github.com/user-attachments/assets/53f75ce0-5064-45c7-b021-9c7be84abcb3)
 
 
-### 3 -
+### 3 - Impacto do Método de Pagamento no Churn
+A análise dos métodos de pagamento revelou diferenças significativas nas taxas de cancelamento (churn) entre os clientes. Observou-se que o método "Electronic check" apresenta a maior taxa de cancelamento, indicando um possível perfil de cliente menos fidelizado ou mais sensível a questões de serviço ou preço. Isso sugere que esse grupo pode demandar ações específicas de retenção, como ofertas personalizadas ou melhorias no atendimento.
+Por outro lado, os clientes que utilizam pagamentos automáticos, como "Credit card (automatic)" e "Bank transfer (automatic)", demonstram menor propensão ao cancelamento. Isso pode refletir um maior engajamento, confiança na empresa e planejamento financeiro. Incentivar esses métodos de pagamento pode ser uma estratégia eficaz para reduzir o churn.
+O método "Mailed check" apresentou taxas intermediárias, possivelmente associado a um público mais tradicional. Embora não seja o grupo mais propenso ao churn, ainda pode se beneficiar de ações informativas sobre as vantagens dos pagamentos automáticos.
+Em resumo, o tipo de pagamento utilizado pelo cliente pode ser um indicativo importante do seu nível de fidelização, sendo uma variável estratégica para programas de retenção e personalização de ofertas.
+
+![Image](https://github.com/user-attachments/assets/b8b43acd-d500-4318-8715-a2f12427b92a)
