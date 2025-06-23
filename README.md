@@ -43,4 +43,4 @@ Por outro lado, os clientes que utilizam pagamentos automáticos, como "Credit c
 O método "Mailed check" apresentou taxas intermediárias, possivelmente associado a um público mais tradicional. Embora não seja o grupo mais propenso ao churn, ainda pode se beneficiar de ações informativas sobre as vantagens dos pagamentos automáticos.
 Em resumo, o tipo de pagamento utilizado pelo cliente pode ser um indicativo importante do seu nível de fidelização, sendo uma variável estratégica para programas de retenção e personalização de ofertas.
 
-![Image](https://github.com/user-attachments/assets/b8b43acd-d500-4318-8715-a2f12427b92a)
+![Image](https://github.com/user-attachments/assets/9a7fdd1b-b153-4129-a242-51b24e6329c8)
